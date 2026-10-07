@@ -168,7 +168,7 @@ Dựa trên các kết quả thực nghiệm định lượng lẫn định tín
 
 - [x] **B5: HuggingFace Hub công khai (+2 điểm)**
   - Adapter đã được đóng gói và xuất bản công khai trên HuggingFace Hub:
-  - **Link Hub:** [`https://huggingface.co/tamle25/lab21-qwen35-triage-vi`](https://huggingface.co/tamle25/lab21-qwen35-triage-vi)
+  - **Link Hub:** [`https://huggingface.co/tamlecong/lab21-qwen35-triage-vi`](https://huggingface.co/tamlecong/lab21-qwen35-triage-vi)
   - Bao gồm: `adapter_config.json`, weights cấu hình `text-linear` $r=16$, mô tả thẻ model card và hướng dẫn nạp adapter trực tiếp qua thư viện `peft`.
 
 
